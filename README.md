@@ -10,3 +10,7 @@ The spotify-this-song command uses the Spotify API and the node-spotify-api pack
 This is an example of the concert-this command that will return upcoming concerts for the requested artist. This call uses the Bands in Town API.
 
 ![screen shot 2019-03-03 at 3 03 35 pm](https://user-images.githubusercontent.com/45184666/53701756-afdf2800-3dc5-11e9-9ac8-a8a1b6e5d75a.png)
+
+# Search for Movies
+The movie-this command will use the OMDB API to get information about a movie and return the results to the console.
+

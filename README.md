@@ -14,3 +14,4 @@ This is an example of the concert-this command that will return upcoming concert
 # Search for Movies
 The movie-this command will use the OMDB API to get information about a movie and return the results to the console.
 
+![screen shot 2019-03-03 at 3 14 30 pm](https://user-images.githubusercontent.com/45184666/53701882-22043c80-3dc7-11e9-87c2-57dba9ba0cb5.png)
